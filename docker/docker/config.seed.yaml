@@ -1,0 +1,3 @@
+model:
+  default: "anthropic/claude-fable-5-1"
+  provider: "anthropic"
